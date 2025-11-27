@@ -1,6 +1,6 @@
 # Algorithms and Design Fundamentals
 
-**Maintainer:** Elvio Aruta | Data Structures, Algorithms, and System Design Principles
+**Maintainer:** Elvio Aruta
 
 ---
 
